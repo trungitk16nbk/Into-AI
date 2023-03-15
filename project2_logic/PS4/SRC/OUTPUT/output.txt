@@ -1,0 +1,49 @@
+9
+M OR -N
+K OR -L OR M
+K OR M
+L OR -M OR -N
+K OR -L
+-N
+-K OR L
+-K OR -M OR N
+-K OR L OR N
+14
+K OR L OR -N
+L OR M OR -N
+L OR -N
+-K OR L OR -N
+-L OR M
+M
+-K OR N
+-L
+-K OR L OR M
+L OR M
+L OR M OR N
+K OR -M OR -N
+-L OR -M OR N
+-K OR -M
+13
+K OR L OR M
+K OR -L OR -M
+-M OR -N
+-K OR -L OR N
+-K OR M OR N
+-K OR -N
+-L OR M OR N
+K OR M OR N
+K OR -L OR -N
+K OR -L OR N
+-L OR -M
+-K OR M OR -N
+-K OR -L
+7
+-L OR M OR -N
+-L OR -N
+-K OR -L OR M
+-K OR -M OR -N
+-L OR -M OR -N
+-K OR -L OR -M
+-K OR -L OR -N
+0
+NO

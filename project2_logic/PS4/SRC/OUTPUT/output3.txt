@@ -1,0 +1,7 @@
+2
+B OR C OR D OR E
+-A OR B
+1
+B OR C OR E
+0
+NO
